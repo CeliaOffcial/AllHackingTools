@@ -1,7 +1,7 @@
 #!/usr/bin
 #Copyright 2021 AllHackingTools
-#Written by : Misha Korzhik
-#Github     : http://github.com/mishakorzik
+#Written by : Celia Official
+#Github     : http://github.com/CeliaOffcial
 
 import requests
 import os
